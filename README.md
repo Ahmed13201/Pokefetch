@@ -4,4 +4,4 @@
 
 - install [Pokemon-Colorscript](https://github.com/nuke-dash/pokemon-colorscripts-mac) 
 - or the [AUR package](https://aur.archlinux.org/packages/pokemon-colorscripts-git)
-- then copy it [Dotfile](https://github.com/Ahmed13201/Pokefetch/blob/main/config.jsonc) to your ~/.config/ directory
+- then copy/replace the [Dotfile](https://github.com/Ahmed13201/Pokefetch/blob/main/config.jsonc) to your ~/.config/fastfetch directory
